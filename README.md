@@ -19,6 +19,10 @@
     <img src="assets/svg/instagram.svg" height="auto" width="24">
   </a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.twitter.com/loouislow" target="_blank" rel="noopener" title="Twitter">
+    <img src="assets/svg/twitter.svg" height="auto" width="24">
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://soundcloud.com/overload-project" target="_blank" rel="noopener" title="SoundCloud">
     <img src="assets/svg/soundcloud.svg" height="auto" width="24">
   </a>
